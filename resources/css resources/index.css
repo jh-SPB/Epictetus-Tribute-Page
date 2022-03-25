@@ -1,0 +1,44 @@
+body {
+    font-family: system-ui;
+    background: #00669a;
+    color: white;
+    text-align: center;
+  }
+  
+  img {
+    height: auto;
+    width: auto;
+    max-width: 625px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+  }
+  
+  ul {
+    text-align: center;
+    list-style-position: inside;
+  }
+  
+  h1 {
+    color: #fff4f4;
+    text-decoration: underline;
+  }
+  
+  h2 {
+    color: #fff4f4;
+    text-decoration: underline;
+  }
+  
+  #header-desciption {
+    margin-top: -16px;
+    font-style: italic;
+  }
+  
+  #img-caption {
+    margin-top: -3px;
+    font-style: italic;
+  }
+  
+  #tribute-link {
+    color: yellow;
+  }
